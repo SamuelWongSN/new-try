@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb77e24f-f713-4a16-ac2a-27e48765470a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1icW7VFVWUabKPXjNKomNl6CZDX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IKC-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NEU\pengzhijue\div2k\Set14" />
+      <recent name="D:\NEU\pengzhijue\div2k\Set5\LR_bicubic" />
+      <recent name="D:\NEU\pengzhijue\div2k\Set5\HR" />
+      <recent name="D:\NEU\pengzhijue\model" />
+      <recent name="D:\NEU\pengzhijue" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NEU\pengzhijue\div2k" />
+      <recent name="D:\NEU\pengzhijue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.renwenjiatest">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pengzhijue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="renwenjiatest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pengzhijue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/renwenjiatest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.renwenjiatest" />
+        <item itemvalue="Python.renwenjiatest" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb77e24f-f713-4a16-ac2a-27e48765470a" name="Default Changelist" comment="" />
+      <created>1602207192355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602207192355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603244445557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603244445557" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1603421058227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603171697144" />
+    <state x="740" y="278" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603421058227" />
+    <state width="1518" height="328" key="GridCell.Tab.0.bottom" timestamp="1603376794315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603365967242" />
+    <state width="1518" height="328" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603376794315" />
+    <state width="1518" height="328" key="GridCell.Tab.0.center" timestamp="1603376794315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603365967242" />
+    <state width="1518" height="328" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603376794315" />
+    <state width="1518" height="328" key="GridCell.Tab.0.left" timestamp="1603376794315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603365967242" />
+    <state width="1518" height="328" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603376794315" />
+    <state width="1518" height="328" key="GridCell.Tab.0.right" timestamp="1603376794315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1518" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603365967242" />
+    <state width="1518" height="328" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603376794315" />
+    <state width="1821" height="2" key="GridCell.Tab.1.bottom" timestamp="1603030379262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1821" height="2" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603030379262" />
+    <state width="1821" height="2" key="GridCell.Tab.1.center" timestamp="1603030379262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1821" height="2" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603030379262" />
+    <state width="1821" height="2" key="GridCell.Tab.1.left" timestamp="1603030379262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1821" height="2" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603030379262" />
+    <state width="1821" height="2" key="GridCell.Tab.1.right" timestamp="1603030379262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1821" height="2" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603030379262" />
+    <state x="455" y="164" key="SettingsEditor" timestamp="1603372993904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602415856055" />
+    <state x="455" y="164" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603372993904" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602921140009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1602921140009" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603418124956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603357596966" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603418124956" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/srdata.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/__init__.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
